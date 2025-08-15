@@ -11,11 +11,6 @@ app.listen(port , () => {
     console.log(`listing the port ${port}`);
 });
 
-app.get("/rolldice", (req, res) => {
-    let num = Math.floor(Math.random() * 6) + 1;
-    res.render("rollDice.ejs", {num });
-});
-
 app.get("/ig/:username", (req , res) => {
     let { username } = req.params;
     const instaData =require("./data.json");
