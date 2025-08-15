@@ -1,0 +1,112 @@
+{
+  "Lion": {
+    "name": "Lion",
+    "followers": 45321,
+    "following": 120,
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1614027164847-1b28cfe1df60?q=80&w=786&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "likes": 872,
+        "comments": 45
+      },
+      {
+        "image": "https://plus.unsplash.com/premium_photo-1669725687221-6fe12c2da6b1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGlvbnxlbnwwfHwwfHx8MA%3D%3D",
+        "likes": 965,
+        "comments": 52
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1552410260-0fd9b577afa6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "likes": 743,
+        "comments": 39
+      }
+    ]
+  },
+  "Elephant": {
+    "name": "Elephant",
+    "followers": 78120,
+    "following": 98,
+    "posts": [
+      {
+        "image": "https://plus.unsplash.com/premium_photo-1664303155518-b996cd1383a7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZWxlcGVudHxlbnwwfHwwfHx8MA%3D%3D",
+        "likes": 1120,
+        "comments": 66
+      },
+      {
+        "image": "https://plus.unsplash.com/premium_photo-1664304384140-af48b1f72a7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGVsZXBlbnR8ZW58MHx8MHx8fDA%3D",
+        "likes": 985,
+        "comments": 54
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1632210130306-92d39268d8a1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGVsZXBlbnR8ZW58MHx8MHx8fDA%3D",
+        "likes": 1043,
+        "comments": 61
+      }
+    ]
+  },
+  "Tiger": {
+    "name": "Tiger",
+    "followers": 62145,
+    "following": 87,
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1615963244664-5b845b2025ee?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGlnZXJ8ZW58MHx8MHx8fDA%3D",
+        "likes": 999,
+        "comments": 58
+      },
+      {
+        "image": "https://plus.unsplash.com/premium_photo-1661847643150-4e06569d2ec1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGlnZXJ8ZW58MHx8MHx8fDA%3D",
+        "likes": 1102,
+        "comments": 64
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1605092676920-8ac5ae40c7c8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGlnZXJ8ZW58MHx8MHx8fDA%3D",
+        "likes": 875,
+        "comments": 47
+      }
+    ]
+  },
+  "Giraffe": {
+    "name": "Giraffe",
+    "followers": 38942,
+    "following": 132,
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1534567110243-8875d64ca8ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8R2lyYWZmZXxlbnwwfHwwfHx8MA%3D%3D",
+        "likes": 654,
+        "comments": 32
+      },
+      {
+        "image": "https://plus.unsplash.com/premium_photo-1661813434310-98cca4c9135e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8R2lyYWZmZXxlbnwwfHwwfHx8MA%3D%3D",
+        "likes": 712,
+        "comments": 36
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1547721064-da6cfb341d50?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8R2lyYWZmZXxlbnwwfHwwfHx8MA%3D%3D",
+        "likes": 698,
+        "comments": 34
+      }
+    ]
+  },
+  "Panda": {
+    "name": "Panda",
+    "followers": 52487,
+    "following": 105,
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1525382455947-f319bc05fb35?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UGFuZGF8ZW58MHx8MHx8fDA%3D",
+        "likes": 1100,
+        "comments": 70
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8UGFuZGF8ZW58MHx8MHx8fDA%3D",
+        "likes": 998,
+        "comments": 63
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1540126034813-121bf29033d2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fFBhbmRhfGVufDB8fDB8fHww",
+        "likes": 1205,
+        "comments": 82
+      }
+    ]
+  }
+}
