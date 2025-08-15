@@ -1,7 +1,7 @@
 const express =require("express");
 const app = express();
 app.set("view engine", "ejs");
-
+app.use('/dices', express.static(__dirname + '/dices'));
 
 
 
@@ -13,7 +13,9 @@ app.listen(port , () => {
 
 app.get("/rolldice", (req, res) => {
     let num = Math.floor(Math.random() * 6) + 1;
-    res.render("rollDice.ejs", {num });
+    let pathimg = "dices/rolldice" + num + ".jpg" ;
+    console.log(pathimg);
+    res.render("rollDice.ejs", {num , pathimg });
 });
 
 app.get("/ig/:username", (req , res) => {

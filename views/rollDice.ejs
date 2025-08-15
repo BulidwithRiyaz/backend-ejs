@@ -4,9 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        .imgdiv{
+            height: 150px;
+            width: 150px;
+        }
+        h1{
+            color: rgb(6, 123, 121);
+        }
+        #rollBtn{
+            border-radius: 1px;
+            background-color : #04aa6d;
+            color: white;
+            padding: 7px;
+            border: 3px solid #04aa6d;
+        }
+        #rollBtn:hover{
+            background-color: #ffffff;
+            color:  black;
+        }
+    </style>
 </head>
 <body>
+   <div class="imgdiv">
+    <img src="<%= pathimg %>" alt="">
+   </div>
     <h1>You rolled: <%= num %></h1>
+    <form action="">
+        <button id="rollBtn">Roll Again</button>
+    </form>
     
+
+        
 </body>
 </html>
